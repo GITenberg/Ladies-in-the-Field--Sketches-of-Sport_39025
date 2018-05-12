@@ -1,0 +1,39 @@
+_repo: Ladies-in-the-Field--Sketches-of-Sport_39025
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39025-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Greville, Violet, Lady
+    aliases:
+    - Greville, Lady (Violet)
+    - Greville, Beatrice Violet Graham Greville, baroness
+    birthdate: 1842
+    deathdate: 1932
+    gutenberg_agent_id: '39798'
+    url: http://www.gutenberg.org/2009/agents/39798
+description: ''
+gutenberg_issued: '2012-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39025'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women hunters'
+- !lcc 'SK'
+- !lcsh 'Sports'
+- !lcc 'GV'
+- !lcsh 'Women athletes'
+tableOfContents: Riding in Ireland and India, by the Lady Greville -- Hunting in the
+  Shires -- Horses and their riders, by the Duchess of Newcastle -- The wife of the
+  M. F. H., by Mrs. Chaworth Musters -- Fox-hunting -- Team and tandem driving, by
+  Miss Rosie Anstruther Thomson -- Tigers I have shot, byt Mrs. C. Martelli -- Rifle-shooting,
+  by Miss Leale -- Deer-stalking and deer-driving, by Diane Chasseresse -- Covert
+  shooting, by Lady Boynton -- A kangaroo hunt, by Mrs. Jenkins -- Cycling, by Mrs.
+  E. R. Pennell -- Punting, by Miss Sybil Salaman.
+title: 'Ladies in the Field: Sketches of Sport'
+url: http://www.gutenberg.org/ebooks/39025
